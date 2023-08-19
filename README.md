@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sinalo-source
+- 👀 I’m interested in any about computer science
+- 🌱 I’m currently learning javascript/python
